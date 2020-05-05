@@ -13,6 +13,10 @@ require('./db');
 
 const cors = require('cors');
 
+
+
+
+
 const socket = require('socket.io');
 //socket stuff
 var users = [];
